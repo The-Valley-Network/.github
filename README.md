@@ -8,23 +8,22 @@
 
 ## 🚀 O que é a Valley Network?
 
-A **Valley Network** é uma rede de servidores de Minecraft com foco em:
-- Gameplay customizado e balanceado
-- Plugins próprios de alto desempenho
-- Experiências únicas em PvE, PvP, Economia, RPG, Skills e muito mais
-- Suporte técnico ativo e comunidade acolhedora
+A **Valley Network** é uma rede de servidores de Minecraft com foco em **qualidade, diversão e inovação**.  
+Oferecemos experiências únicas com **sistemas próprios de liga, tags, economia, bosses e muito mais**!
 
-🎯 Criada por jogadores, para jogadores.
+💡 Criada por jogadores, para jogadores.  
+⚡ Otimizada com Purpur 1.21.4 e infraestrutura dedicada para performance máxima.
 
 ---
 
-## 🧩 Funcionalidades principais
+## 🧩 O que você encontra aqui:
 
-✔️ Plugins autorais: ligas, tags, bosses, economia e habilidades  
-✔️ Ambientes otimizados com servidores Purpur 1.21.4  
-✔️ Divisão modular entre mundos e servidores usando Velocity Proxy  
-✔️ Sistema de recompensas, VIPs temáticos e eventos recorrentes  
-✔️ Integrações com sistemas como MySQL, Redis, PlaceholderAPI e MythicMobs
+- ✅ Plugins exclusivos desenvolvidos pela equipe
+- 🧠 Sistemas inteligentes de competição e progressão (ligas, rankings, recompensas)
+- 🎉 Eventos frequentes e suporte ativo
+- 🧙‍♂️ RPG, PvP, PvE, habilidades, mineração e mundo personalizado
+- 💬 Comunidade ativa no Discord
+- 🛠️ Desenvolvimento constante com feedback dos jogadores
 
 ---
 
